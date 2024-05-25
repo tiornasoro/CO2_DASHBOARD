@@ -4,4 +4,4 @@ For this project, we'll use:
 pip install hvplot jupyter notebook
 
 - panel (out of the environment)
-pip install panel
+pip install panelgit commit
