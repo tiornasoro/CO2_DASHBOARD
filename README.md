@@ -4,4 +4,10 @@ For this project, we'll use:
 pip install hvplot jupyter notebook
 
 - panel (out of the environment)
-pip install panelgit commit
+pip install panel
+- Parsing (in the notebook)
+pip install pyparsing
+
+- It works well with jupyter Lab than jupyter Notebook
+- To run the web app:
+panel serve notebookName 
